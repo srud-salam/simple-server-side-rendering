@@ -1,0 +1,10 @@
+{
+    "ignore": [
+      "node_modules/**/node_modules"
+    ],
+    "delay": "2500",
+    "env": {
+      "ENV": "development",
+      "PORT": 3000
+    }
+  }
