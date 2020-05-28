@@ -61,4 +61,7 @@ typings/
 .next
 
 # public build output
-public
+public/
+
+# exculde from checking 
+pack-lock.json
